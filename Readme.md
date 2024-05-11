@@ -10,3 +10,4 @@
     - message the types basically
     - services
         - these will have the methods to be implemented on the server and those will be invoked from the client.
+![image](https://github.com/anshulmalokar/RPC/assets/78919378/762e9e96-2a4e-4780-958d-2298342e6774)
