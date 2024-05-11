@@ -1,0 +1,12 @@
+-RPC & GRPC
+    - They are language independent
+    - Will take care of the types when calling from a different server.
+    - We will hust need a ProtoBuff file which will basically have the service -> methods in that.
+    - We will need to generate the client and server code from the ProtoBuff file.
+    - The protobuff file must be present on both the machines.
+    - All the type things will get handeled.
+    - And basically a function will get invoked which the client desires.
+- Protobuff file
+    - message the types basically
+    - services
+        - these will have the methods to be implemented on the server and those will be invoked from the client.
